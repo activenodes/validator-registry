@@ -1,4 +1,5 @@
 {
-  "name": "⚡️Allnodes",
+  "$schema": "../profile.schema.json",
+  "name": "Allnodes.com ⚡️ Nodes & Staking",
   "identity": "3999DA33020A4DBC"
 }

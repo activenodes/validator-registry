@@ -1,4 +1,21 @@
 {
-  "name": "Stake Frites",
-  "identity": "7817CA2B0981F769"
+  "$schema": "../profile.schema.json",
+  "name": "Stake Frites 🥩 🍟",
+  "identity": "7817CA2B0981F769",
+  "website": "https://stakefrites.co",
+  "description": {
+    "overview": "PoS Validators & Web3 developpers",
+    "team": "",
+    "security": ""
+  },
+  "contacts": {
+    "telephone": "",
+    "email": "security@stakefrites.co",
+    "telegram": "",
+    "twitter": "stakefrites_",
+    "discord": "",
+    "others": {
+      "emergency": ""
+    }
+  }
 }

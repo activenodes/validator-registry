@@ -1,16 +1,8 @@
 {
+  "$schema": "../chains.schema.json",
   "name": "ITA Stakers",
   "chains": [
     {
-      "name": "osmosis",
-      "address": "osmovaloper1juczud9nep06t0khghvm643hf9usw45r3jxhxn",
-      "restake": {
-        "address": "osmo1ljahtlzw6zy7fea6yywavuvvlq96vec9m7gr5h",
-        "run_time": "21:00",
-        "minimum_reward": 10000
-      }
-    },
-        {
       "name": "bitsong",
       "address": "bitsongvaloper1fkj2cn209yeexxyets98evrcmmds23hck0lyzq",
       "restake": {
@@ -19,20 +11,20 @@
         "minimum_reward": 10000
       }
     },
-        {
-      "name": "juno",
-      "address": "junovaloper1juczud9nep06t0khghvm643hf9usw45r23gsmr",
+    {
+      "name": "desmos",
+      "address": "desmosvaloper1u0xqasxgl6qkkckd860pt4xjqryxek4y05jwy6",
       "restake": {
-        "address": "juno1ljahtlzw6zy7fea6yywavuvvlq96vec99hcg9e",
+        "address": "desmos10gqy32et4k2zydrrl30t7pfa854mu56pj3xdht",
         "run_time": "21:00",
         "minimum_reward": 10000
       }
     },
-        {
-      "name": "cosmos",
-      "address": "cosmosvaloper1usvshtypjw57edkwxq3tagme665398f0hf4wuc",
+    {
+      "name": "chihuahua",
+      "address": "chihuahuavaloper1t6t8ttmlzw5fgehx5wlfc02sefj5etwvk6yz9j",
       "restake": {
-        "address": "cosmos1ljahtlzw6zy7fea6yywavuvvlq96vec9n9mnz9",
+        "address": "chihuahua1ljahtlzw6zy7fea6yywavuvvlq96vec9sskar8",
         "run_time": "21:00",
         "minimum_reward": 10000
       }
